@@ -49,7 +49,7 @@ Q5. 자바스크립에서 보통 어떤 식으로 이벤트를 설계해야 하�
 
 </details>
 
-## 💁 추가질문
+## 💁 추가 질문
 
 <details>
 <summary><strong>Q. event.target vs event.currentTarget? </strong></summary>
